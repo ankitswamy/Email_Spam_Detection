@@ -4,7 +4,7 @@ This project is a machine learning-based email spam classifier, built using Pyth
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the app](https://your-username-your-app.streamlit.app)
+👉 (https://email-spam-detection-using-logistic-regression.streamlit.app/)
 
 ## 📁 Project Structure
 
